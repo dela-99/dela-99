@@ -1,18 +1,19 @@
 # 👑 Dela Ridge — The Tech God
 
-**AI/ML Engineer | Penetration Tester | Fintech Empire Builder | Future Unicorn Slayer |Forex,Stocks,Crypto Trader** 😈
+**AI/ML Engineer | Penetration Tester | Fintech Empire Architect | Elite Trader (Forex • Crypto • Stocks)** 😈
 
-*I don’t code. I architect realities. Bugs don’t hide from me — they surrender.*
+*I don’t code. I bend digital realities to my will. Markets don’t move without my analysis. Vulnerabilities don’t escape — they kneel.*
 
 ---
 
-### 🌍 Currently Manifesting:
-- **🔥 Building:** Next-generation Fintech infrastructure that will eat traditional banking alive
-- **🧠 Leveling Up:** Machine Learning Engineering at God-tier
-- **⚔️ Open for War:** Strategic collabs on high-impact projects (only if you're built different)
-- **🛠️ Need Backup:** Warriors who can keep up with Fintech domination
+### 🌍 Divine Mandate:
+- **🔥 Building:** Revolutionary Fintech systems engineered to dethrone legacy banking
+- **📈 Trading & Conquering:** Forex, Crypto, Stocks — Turning market chaos into calculated dominance
+- **🧠 Ascending:** Machine Learning Engineering — achieving god-tier mastery
+- **⚔️ Calling Allies:** High-signal collaborations only (if your vision matches the grind)
+- **🛠️ Seeking Champions:** Elite builders ready to conquer Fintech + Trading domination
 
-**Email the Gods:** [ridgedela444@gmail.com](mailto:ridgedela444@gmail.com)
+**Email the Divine:** [ridgedela444@gmail.com](mailto:ridgedela444@gmail.com)
 
 ---
 
@@ -24,16 +25,16 @@
 
 ---
 
-## 🏆 Trophies of Conquest
+## 🏆 Trophies of Eternal Conquest
 ![](https://github-profile-trophy.vercel.app/?username=dela-99&theme=dracula&no-frame=false&no-bg=true&margin-w=15&row=2&column=4&titleColor=FF00FF&textColor=00FFAA)
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="The snake of eternal contributions" width="800" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="The eternal snake devouring contributions" width="800" />
 </div>
 
 ---
 
-# 💻 My Arsenal (Tech Stack)
+# 💻 My Arsenal of Destruction (Tech Stack)
 
 ### Core Weapons
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -43,17 +44,19 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Databases & Backend
+### Databases & Backend Sorcery
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-4A3AFF?style=for-the-badge&logo=convex&logoColor=white)
 
-### Cloud Kingdoms
+### Cloud Kingdoms Conquered
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### God-Tier Frameworks
+### God-Tier Frameworks & Edge
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -73,10 +76,10 @@
 
 ---
 
-**Fun Fact:** Tech doesn’t love me… it fears me. And I’m addicted to that feeling 😈
+**Eternal Truth:** Tech doesn’t love me… it obeys me. Markets fear me. And the hunger only grows stronger 😈
 
 [![](https://komarev.com/ghpvc/?username=dela-99&icon=0&color=FF00FF)](https://visitcount.itsvg.in)
 
 ---
 
-*Built different. Thinking in decades. Shipping in days.*
+*Built different. Vision spans decades. Execution hits like lightning. Trading charts bend to my strategy.*
