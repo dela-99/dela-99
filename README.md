@@ -1,8 +1,8 @@
 # 👑 Dela Ridge — The Tech God
 
-**AI/ML Engineer | Penetration Tester | Fintech Empire Builder | Future Unicorn Slayer** 😈
+**AI/ML Engineer | Penetration Tester | Fintech Empire Builder | Future Unicorn Slayer |Forex,Stocks,Crypto Trader** 😈
 
-*I don’t code. I command systems. I don’t find bugs — I hunt vulnerabilities like prey.*
+*I don’t code. I architect realities. Bugs don’t hide from me — they surrender.*
 
 ---
 
@@ -25,7 +25,7 @@
 ---
 
 ## 🏆 Trophies of Conquest
-![](https://github-profile-trophy.vercel.app/?username=dela-99&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=3&column=6&titleColor=FF00FF&textColor=00FFAA)
+![](https://github-profile-trophy.vercel.app/?username=dela-99&theme=dracula&no-frame=false&no-bg=true&margin-w=15&row=2&column=4&titleColor=FF00FF&textColor=00FFAA)
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="The snake of eternal contributions" width="800" />
@@ -36,10 +36,16 @@
 # 💻 My Arsenal (Tech Stack)
 
 ### Core Weapons
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Databases & Backend
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-4A3AFF?style=for-the-badge&logo=convex&logoColor=white)
 
 ### Cloud Kingdoms
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -58,12 +64,12 @@
 ---
 
 # 📊 Realm Statistics
-![](https://github-readme-stats.shion.dev/api?username=dela-99&theme=radical&hide_border=false&include_all_commits=true&show_icons=true)
-![](https://streak-stats.demolab.com/?user=dela-99&theme=radical&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dela-99&theme=radical&hide_border=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=dela-99&theme=dracula&hide_border=false&include_all_commits=true&show_icons=true)
+![](https://streak-stats.demolab.com/?user=dela-99&theme=dracula&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=dela-99&theme=dracula&hide_border=false&layout=compact)
 
 ### Top Realms Conquered
-![](https://github-contributor-stats.vercel.app/api?username=dela-99&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=dela-99&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
 
