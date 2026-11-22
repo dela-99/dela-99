@@ -1,88 +1,111 @@
 
 <div align="center">
 
-# DELA RIDGE
-
-### Quantitative Research • AI/ML • Software Engineering
-
-Building intelligent systems at the intersection of **technology, financial markets, and mathematics.**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:111827,100:0B1020&height=220&section=header&text=DELA%20RIDGE&fontSize=60&fontColor=E5E7EB&fontAlignY=45&desc=QUANTITATIVE%20RESEARCH%20%7C%20SOFTWARE%20ENGINEERING%20%7C%20AI&descAlignY=70&descSize=16&animation=fadeIn" width="100%" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-dela--99-181717?style=flat-square&logo=github)](https://github.com/dela-99)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/Ridge-Dela-Torjagbo)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x)](https://x.com/ridgesvision)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram)](https://instagram.com/t.he.1st)
+<a href="https://github.com/dela-99">
+<img src="https://img.shields.io/badge/GitHub-dela--99-FFFFFF?style=flat-square&logo=github&logoColor=black" />
+</a>
+<a href="https://linkedin.com/in/Ridge-Dela-Torjagbo">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/ridgesvision">
+<img src="https://img.shields.io/badge/X-Follow-FFFFFF?style=flat-square&logo=x&logoColor=black" />
+</a>
+<a href="https://instagram.com/t.he.1st">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+</a>
+<a href="https://codepen.io/dela-99">
+<img src="https://img.shields.io/badge/CodePen-Explore-FFFFFF?style=flat-square&logo=codepen&logoColor=black" />
+</a>
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
 
-I'm a developer, quantitative researcher, and technology enthusiast focused on building systems that combine **software engineering, mathematics, artificial intelligence, and financial markets**.
+### Engineering intelligent systems. Researching markets. Building the future of finance.
 
-My interests span algorithmic trading, machine learning, financial technology, infrastructure, and the engineering of reliable intelligent systems.
+</div>
 
-I believe in building from first principles, understanding the underlying mathematics, and validating ideas through experimentation rather than assumptions.
+I'm a software developer, quantitative researcher, and aspiring technology entrepreneur focused on the intersection of **computer science, mathematics, artificial intelligence, and financial markets**.
 
-- 🔬 **Research:** Quantitative strategies, statistical analysis, market behavior
-- 📈 **Markets:** Forex, cryptocurrency, equities, systematic trading
-- 🤖 **AI & ML:** Machine learning, intelligent systems, applied AI
-- ⚙️ **Engineering:** Software architecture, backend systems, automation
-- 🏗️ **Vision:** Building technology-driven financial institutions
+My goal is to develop deep technical expertise and build sophisticated, reliable systems—from intelligent software and quantitative trading infrastructure to next-generation fintech platforms.
+
+I value first-principles thinking, technical depth, disciplined research, and building things that work in the real world.
 
 ---
 
-## Current Focus
+## Research & Engineering
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 Quantitative Research
+<h3>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="22" />
+ Quantitative Research
+</h3>
 
-- Systematic trading research
-- Statistical validation
-- Backtesting & optimization
+- Algorithmic trading
+- Statistical modeling
+- Market analysis
+- Strategy development
+- Backtesting and validation
 - Risk management
-- Market microstructure
 
 </td>
-<td width="50%">
 
-### 🤖 AI & Machine Learning
+<td width="50%" valign="top">
 
-- Machine learning foundations
-- AI systems engineering
-- Data-driven modeling
+<h3>
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="22" />
+ Artificial Intelligence
+</h3>
+
+- Machine learning
+- Deep learning
+- AI engineering
+- Data science
+- Intelligent systems
 - Computational research
-- Intelligent automation
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💻 Software Engineering
+<h3>
+<img src="https://cdn.simpleicons.org/linux/FCC624" width="22" />
+ Software Engineering
+</h3>
 
 - Python development
 - Systems programming
-- Backend architecture
-- Algorithm design
-- Production infrastructure
+- Backend engineering
+- Software architecture
+- Algorithms and data structures
+- Automation
 
 </td>
-<td width="50%">
 
-### 🏦 Fintech & Infrastructure
+<td width="50%" valign="top">
+
+<h3>
+<img src="https://cdn.simpleicons.org/bitcoin/F7931A" width="22" />
+ Fintech & Infrastructure
+</h3>
 
 - Financial technology
-- Trading infrastructure
-- Automated execution systems
+- Trading systems
+- Execution infrastructure
 - Distributed systems
-- Scalable architecture
+- Cloud infrastructure
+- Scalable applications
 
 </td>
 </tr>
@@ -92,62 +115,71 @@ I believe in building from first principles, understanding the underlying mathem
 
 ## Technology Stack
 
-### Languages
+### Programming Languages
 
 <div align="center">
 
-[![Languages](https://skillicons.dev/icons?i=python,cpp,c,rust,js,ts,java&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,cpp,c,rust,typescript,javascript,java&theme=dark" />
 
 </div>
 
-### Development & Engineering
+### Frameworks & Development
 
 <div align="center">
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,express&theme=dark" />
 
 </div>
 
-### Web & Application Development
+### Databases & Data Engineering
 
 <div align="center">
 
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" />
 
 </div>
 
-### Data & Infrastructure
+### Cloud & Infrastructure
 
 <div align="center">
 
-[![Infrastructure](https://skillicons.dev/icons?i=postgres,mongodb,aws,gcp,kubernetes&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,bash&theme=dark" />
 
 </div>
 
-### Other Technologies
+### Tools & Platforms
 
 <div align="center">
 
-![SQL](https://img.shields.io/badge/SQL-Database_Engineering-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MT5](https://img.shields.io/badge/MetaTrader_5-Trading_Infrastructure-0B6E4F?style=flat-square)
-![Arduino](https://img.shields.io/badge/Arduino-Embedded_Systems-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-Computing-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,raspberrypi&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-Research%20%26%20Development-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-Systems%20Programming-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MT5](https://img.shields.io/badge/MetaTrader%205-Trading%20Infrastructure-0B6E4F?style=flat-square)
+![AI](https://img.shields.io/badge/AI-Machine%20Learning-8B5CF6?style=flat-square)
+![Fintech](https://img.shields.io/badge/Fintech-Systems%20Engineering-64748B?style=flat-square)
 
 </div>
 
 ---
 
-## GitHub Analytics
+## GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dela-99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dela-99&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&rank_icon=github" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dela-99&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dela-99&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dela-99&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dela-99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -157,7 +189,7 @@ I believe in building from first principles, understanding the underlying mathem
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dela-99&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dela-99&theme=tokyo-night&hide_border=true&area=true&custom_title=Development%20Activity" width="100%" />
 
 </div>
 
@@ -167,14 +199,25 @@ I believe in building from first principles, understanding the underlying mathem
 
 <div align="center">
 
-| Platform | Profile |
-|---|---|
-| 📧 Email | [ridgedela444@gmail.com](mailto:ridgedela444@gmail.com) |
-| 💼 LinkedIn | [Ridge Dela Torjagbo](https://linkedin.com/in/Ridge-Dela-Torjagbo) |
-| 🐦 X | [@ridgesvision](https://x.com/ridgesvision) |
-| 📸 Instagram | [@t.he.1st](https://instagram.com/t.he.1st) |
-| 🎨 CodePen | [dela-99](https://codepen.io/dela-99) |
-| 💻 GitHub | [@dela-99](https://github.com/dela-99) |
+<a href="mailto:ridgedela444@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-64748B?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/Ridge-Dela-Torjagbo">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/ridgesvision">
+<img src="https://img.shields.io/badge/X-Updates-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://codepen.io/dela-99">
+<img src="https://img.shields.io/badge/CodePen-Projects-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/t.he.1st">
+<img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
 
@@ -182,8 +225,12 @@ I believe in building from first principles, understanding the underlying mathem
 
 <div align="center">
 
-### *Research deeply. Engineer precisely. Build relentlessly.*
+<img src="https://komarev.com/ghpvc/?username=dela-99&style=flat-square&color=64748B&label=PROFILE+VIEWS" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=dela-99&style=flat-square&color=64748b&label=PROFILE+VIEWS)
+<br/><br/>
+
+**Research deeply. Engineer precisely. Build relentlessly.**
+
+<sub>Driven by curiosity. Grounded in mathematics. Built through execution.</sub>
 
 </div>
