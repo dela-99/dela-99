@@ -1,99 +1,189 @@
 
-
-
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-# 😈 Dela Ridge 
-
-
-
-**AI/ML Engineer | QAUNT TRADER | Fintech Empire Architect | Elite Trader (Forex • Crypto • Stocks)** 😈
-
-*I don’t code. I bend digital realities to my will. Markets don’t move without my analysis. Vulnerabilities don’t escape — they kneel.*
-
----
-
-### 🌍 Divine Mandate:
-- **🔥 Building:** Revolutionary Fintech systems engineered to dethrone legacy banking
-- **📈 Trading & Conquering:** Forex, Crypto, Stocks — Turning market chaos into calculated dominance
-- **🧠 Ascending:** Machine Learning Engineering — achieving god-tier mastery
-- **⚔️ Calling Allies:** High-signal collaborations only (if your vision matches the grind)
-- **🛠️ Seeking Champions:** Elite builders ready to conquer Fintech + Trading domination
-
-**Email the Divine:** [ridgedela444@gmail.com](mailto:ridgedela444@gmail.com)
-
----
-
-## 🌐 Divine Realms (Socials)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/t.he.1st)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/Ridge-Dela-Torjagbo)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/ridgesvision)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white&style=for-the-badge)](https://codepen.io/dela-99)
-
----
-
-## 🏆 Trophies of Eternal Conquest
-![](https://github-profile-trophy.vercel.app/?username=dela-99&theme=dracula&no-frame=false&no-bg=true&margin-w=15&row=2&column=4&titleColor=FF00FF&textColor=00FFAA)
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="The eternal snake devouring contributions" width="800" />
+
+# DELA RIDGE
+
+### Quantitative Research • AI/ML • Software Engineering
+
+Building intelligent systems at the intersection of **technology, financial markets, and mathematics.**
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-dela--99-181717?style=flat-square&logo=github)](https://github.com/dela-99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/Ridge-Dela-Torjagbo)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x)](https://x.com/ridgesvision)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram)](https://instagram.com/t.he.1st)
+
 </div>
 
 ---
 
-# 💻 My Arsenal of Destruction (Tech Stack)
+## About Me
 
-### Core Weapons
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![react](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Nextjs](https://img.shields.io/badge/-Nextjs-05122A%3Fstyle%3Dflat%26logo%3Dnextjs?style=flat&logo=nextdotjs&color=%23000000
-)&nbsp;
+I'm a developer, quantitative researcher, and technology enthusiast focused on building systems that combine **software engineering, mathematics, artificial intelligence, and financial markets**.
 
-### Databases & Backend Sorcery
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-4A3AFF?style=for-the-badge&logo=convex&logoColor=white)
+My interests span algorithmic trading, machine learning, financial technology, infrastructure, and the engineering of reliable intelligent systems.
 
-### Cloud Kingdoms Conquered
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+I believe in building from first principles, understanding the underlying mathematics, and validating ideas through experimentation rather than assumptions.
 
-### God-Tier Frameworks & Edge
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+- 🔬 **Research:** Quantitative strategies, statistical analysis, market behavior
+- 📈 **Markets:** Forex, cryptocurrency, equities, systematic trading
+- 🤖 **AI & ML:** Machine learning, intelligent systems, applied AI
+- ⚙️ **Engineering:** Software architecture, backend systems, automation
+- 🏗️ **Vision:** Building technology-driven financial institutions
 
 ---
 
-# 📊 Realm Statistics
-![](https://github-readme-stats.shion.dev/api?username=dela-99&theme=dracula&hide_border=false&include_all_commits=true&show_icons=true)
-![](https://streak-stats.demolab.com/?user=dela-99&theme=dracula&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dela-99&theme=dracula&hide_border=false&layout=compact)
+## Current Focus
 
-### Top Realms Conquered
-![](https://github-contributor-stats.vercel.app/api?username=dela-99&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<table>
+<tr>
+<td width="50%">
+
+### 📊 Quantitative Research
+
+- Systematic trading research
+- Statistical validation
+- Backtesting & optimization
+- Risk management
+- Market microstructure
+
+</td>
+<td width="50%">
+
+### 🤖 AI & Machine Learning
+
+- Machine learning foundations
+- AI systems engineering
+- Data-driven modeling
+- Computational research
+- Intelligent automation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💻 Software Engineering
+
+- Python development
+- Systems programming
+- Backend architecture
+- Algorithm design
+- Production infrastructure
+
+</td>
+<td width="50%">
+
+### 🏦 Fintech & Infrastructure
+
+- Financial technology
+- Trading infrastructure
+- Automated execution systems
+- Distributed systems
+- Scalable architecture
+
+</td>
+</tr>
+</table>
 
 ---
 
-**Eternal Truth:** Tech doesn’t love me… it obeys me. Markets fear me. And the hunger only grows stronger 😈
+## Technology Stack
 
-[![](https://komarev.com/ghpvc/?username=dela-99&icon=0&color=FF00FF)](https://visitcount.itsvg.in)
+### Languages
+
+<div align="center">
+
+[![Languages](https://skillicons.dev/icons?i=python,cpp,c,rust,js,ts,java&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### Development & Engineering
+
+<div align="center">
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### Web & Application Development
+
+<div align="center">
+
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### Data & Infrastructure
+
+<div align="center">
+
+[![Infrastructure](https://skillicons.dev/icons?i=postgres,mongodb,aws,gcp,kubernetes&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### Other Technologies
+
+<div align="center">
+
+![SQL](https://img.shields.io/badge/SQL-Database_Engineering-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MT5](https://img.shields.io/badge/MetaTrader_5-Trading_Infrastructure-0B6E4F?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-Embedded_Systems-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-Computing-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+</div>
 
 ---
 
-*Built different. Vision spans decades. Execution hits like lightning. Trading charts bend to my strategy.*
+## GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dela-99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dela-99&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dela-99&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dela-99&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+| Platform | Profile |
+|---|---|
+| 📧 Email | [ridgedela444@gmail.com](mailto:ridgedela444@gmail.com) |
+| 💼 LinkedIn | [Ridge Dela Torjagbo](https://linkedin.com/in/Ridge-Dela-Torjagbo) |
+| 🐦 X | [@ridgesvision](https://x.com/ridgesvision) |
+| 📸 Instagram | [@t.he.1st](https://instagram.com/t.he.1st) |
+| 🎨 CodePen | [dela-99](https://codepen.io/dela-99) |
+| 💻 GitHub | [@dela-99](https://github.com/dela-99) |
+
+</div>
+
+---
+
+<div align="center">
+
+### *Research deeply. Engineer precisely. Build relentlessly.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=dela-99&style=flat-square&color=64748b&label=PROFILE+VIEWS)
+
+</div>
